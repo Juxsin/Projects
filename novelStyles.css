@@ -1,0 +1,37 @@
+body {
+    font-family: "Open Sans", sans-serif; 
+    background-color:rgb(114, 28, 28);
+    color:rgb(247, 247, 247);}
+h1, h2, h3{
+    font-family:"Helvetica"; 
+}  
+h2{
+    color: #4a068a; 
+}
+h3, h4{
+    color:rgb(117, 130, 247)
+}  
+header h2 {
+    color: #e6c8ff; 
+}  
+.site-footer {
+    background-color: rgb(0, 0, 121);
+    padding: 20px 0; 
+    color: rgb(71, 146, 207); 
+}
+.jumbotron {
+    margin: 0;
+    padding: 30px;
+    background-color: rgb(0, 122, 192);
+    color: rgb(85, 3, 139);
+}  
+.row-content {
+    padding: 50px 0;
+    border-bottom: 1px ridge;
+    min-height: 200px; 
+}  
+.carousel {
+    border: solid #5637dd; }
+.carousel-inner img {
+    max-height: 200px;
+}
